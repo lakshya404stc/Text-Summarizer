@@ -1,0 +1,16 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+.line {
+  border: 1px solid #000; 
+  color:black;
+}
+.text-area{
+  border-radius: 10px;
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  
+  width:fill !important;
+  height:70vh !important;
+  resize:none;
+}
